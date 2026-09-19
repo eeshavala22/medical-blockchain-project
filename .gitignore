@@ -1,0 +1,23 @@
+# Node
+node_modules/
+*/node_modules/
+
+# Python
+venv/
+*/venv/
+__pycache__/
+*/__pycache__/
+*.pyc
+
+# Build artifacts
+build/
+blockchain/build/
+frontend/build/
+
+# Env files
+.env
+*/.env
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
